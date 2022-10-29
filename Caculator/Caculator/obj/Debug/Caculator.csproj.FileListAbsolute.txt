@@ -1,0 +1,9 @@
+D:\Caculator\Caculator\bin\Debug\Caculator.exe.config
+D:\Caculator\Caculator\bin\Debug\Caculator.exe
+D:\Caculator\Caculator\bin\Debug\Caculator.pdb
+D:\Caculator\Caculator\obj\Debug\Caculator.csprojResolveAssemblyReference.cache
+D:\Caculator\Caculator\obj\Debug\Caculator.Form1.resources
+D:\Caculator\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+D:\Caculator\Caculator\obj\Debug\Caculator.csproj.GenerateResource.Cache
+D:\Caculator\Caculator\obj\Debug\Caculator.exe
+D:\Caculator\Caculator\obj\Debug\Caculator.pdb
